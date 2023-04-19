@@ -1,0 +1,14 @@
+{
+  "name": "irish_whiskey_api",
+  "version": "1.0.0",
+  "description": "Irish Whiskey API",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "Ephraim Kanyandula",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
