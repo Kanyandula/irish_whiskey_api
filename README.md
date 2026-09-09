@@ -160,6 +160,32 @@ text is never stored — the client links out.
   "published": "2026-01-12", "image_url": null }
 ```
 
+## Consuming this from Android
+
+Two things bite immediately when pointing an Android client at a local
+json-server.
+
+**`localhost` is not your Mac.** From an emulator, `localhost` means the
+emulator itself. Use the host loopback alias instead, and your machine's LAN IP
+from a physical device:
+
+| Running on | Base URL |
+|---|---|
+| Emulator | `http://10.0.2.2:3001` |
+| Physical device | `http://<your-mac-lan-ip>:3001` |
+| Host machine | `http://localhost:3001` |
+
+Note that `image_url` values are absolute and baked in by `build_db.py` from
+its `BASE_URL` constant, so set that constant to whichever host the client will
+actually use and re-run the build — otherwise the JSON parses fine and every
+image silently fails to load.
+
+**Cleartext HTTP is blocked by default** on API 28+. A debug-only
+`network_security_config.xml` permitting cleartext to that host is required, or
+every request fails with `CLEARTEXT communication not permitted`.
+
+Neither applies once this is served over HTTPS from a real host.
+
 ## Migration rules
 
 `json-server` offers conveniences that a real backend would have to
@@ -186,21 +212,55 @@ survives the migration untouched.
 
 Everything in the contract reduces to `WHERE` / `ORDER BY` / `LIMIT`.
 
-## Rebuilding `db.json`
+## Tooling
 
 `db.json` is **generated — do not hand-edit it.** The source of truth is the
-CSV and markdown under `tools/source/`.
+CSV and markdown under `tools/source/`. To correct data, edit the source and
+re-run the build.
+
+### `tools/build_db.py` — rebuild the API
 
 ```bash
 python3 tools/build_db.py
 ```
 
-The script normalizes types (`"56.70%"` → `56.7`, `"$500.00"` → `500.0`),
-slugifies ids, resolves related whiskeys by title, decodes HTML entities, and
-asserts referential integrity before writing. It fails loudly rather than
-emitting a broken file.
+Normalizes types (`"56.70%"` → `56.7`, `"$500.00"` → `500.0`), slugifies ids,
+resolves related whiskeys by title, decodes HTML entities, and asserts
+referential integrity before writing. It fails loudly rather than emitting a
+broken file, so a bad edit to a CSV is caught here rather than in the client.
 
-To correct data, edit the CSV and re-run.
+It only emits an `image_url` for files that actually exist under
+`public/images/`, so adding images later needs nothing but a re-run.
+
+### `tools/fetch_images.py` — download images
+
+```bash
+python3 tools/fetch_images.py && python3 tools/build_db.py
+```
+
+Downloads the bottle shots recorded in `whiskeys.csv:source_image_url` and
+resizes them to 800px on the longest side with `sips` (macOS built-in).
+Re-runnable: existing files are skipped, so a partial run resumes and a re-run
+costs nothing.
+
+Two of the four whiskey-type images are unreachable at source and fall back to
+a representative bottle already downloaded. Distilleries and brands have no
+image source in the original data.
+
+### `tools/fetch_news.py` — refresh the news feed
+
+```bash
+python3 tools/fetch_news.py && python3 tools/build_db.py
+```
+
+Pulls the publisher RSS feeds and rewrites `news.csv` with headline, link,
+publisher and a short excerpt — never full article text. Items must match a
+whiskey keyword (every feed carries other drinks coverage), no publisher may
+take more than 6 of the 20 slots, and Irish-related items sort first.
+
+Run it by hand when the news looks stale. When this becomes a real backend,
+`GET /news` should proxy the feeds live behind a short cache rather than
+serving a baked snapshot.
 
 ## Data sources and attribution
 
@@ -209,13 +269,23 @@ To correct data, edit the CSV and re-run.
   `source_url`, `source_publisher` and `source_author`, and clients link out for
   the full review. Only facts and a short attributed excerpt are stored — never
   the full review text.
+- **Bottle images**: originally hot-linked from VinePair, now downloaded and
+  served from `public/images/` so the API does not depend on third-party URLs.
+  `whiskeys.csv:source_image_url` records where each came from.
 - **Distillery coordinates**: [Oralytics Irish Whiskey Distilleries data
   set](https://oralytics.com/data-sets/irish-whiskey-distilleries/).
 - **Whiskey type definitions**: EU Regulation 2019/787 and the Irish Whiskey
   Technical File.
-- **News**: publisher RSS (The Whiskey Wash, Whisky Advocate, VinePair) —
-  headline, link and excerpt only.
+- **News**: publisher RSS — [Irish Whiskey
+  Magazine](https://www.irishwhiskeymagazine.com/feed/), [The Whiskey
+  Wash](https://thewhiskeywash.com/feed/), [Whisky
+  Advocate](https://whiskyadvocate.com/call/blogs/rss/) and
+  [VinePair](https://vinepair.com/feed/) — headline, link and excerpt only.
 - **Articles**: written for this project.
+
+Some data is hand-assigned rather than sourced and is worth treating as
+provisional: the brand-to-distillery mapping, and the `founded` years in
+`distilleries.csv`.
 
 ## A note on `npm audit`
 
