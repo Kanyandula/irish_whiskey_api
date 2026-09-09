@@ -14,7 +14,7 @@
       "rating": 95,
       "tasting_note": "Intensive tropical fruit",
       "excerpt": "This very rare and exclusive 19-year-old single malt from High N' Wicked was bottled from one of five single barrels of various proofs. The nose is filled with tropical fruit, particularly pineapple...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/high-n-wicked-saints-and-scholars-ii-19-year-old-single-malt-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-aeneas-coffey-single-grain-irish-whiskey",
         "high-n-wicked-the-wild-rover-single-malt-irish-whiskey",
@@ -39,7 +39,7 @@
       "rating": 94,
       "tasting_note": "Bursting with fresh summer berries and succulent fruit",
       "excerpt": "Waterford is the Irish whiskey distiller for wine drinkers, with terroir-driven expressions and biodynamic barley releases such as this. While the jury remains (mainly) out on the topic of terroir in...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/waterford-single-malt-irish-whisky-biodynamic-luna-1-1.jpg",
       "related_whiskey_ids": [
         "dingle-single-malt-whiskey-batch-no-4",
         "proper-no-twelve-irish-whiskey",
@@ -65,7 +65,7 @@
       "rating": 93,
       "tasting_note": "An intense blend of ripe berries and deep caramel",
       "excerpt": "This Two Stacks release enters bottle at a cask-strength 65 percent ABV, and comprises a blend of grain, pot still, and malt whiskeys. It spent the final days of its aging period in Tawny port casks...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/two-stacks-blended-irish-whiskey-tawny-port-cask-finished.jpg",
       "related_whiskey_ids": [
         "hinch-irish-whiskey-small-batch",
         "method-and-madness-rye-and-malt-irish-whiskey",
@@ -91,7 +91,7 @@
       "rating": 93,
       "tasting_note": "An innovative and exciting release",
       "excerpt": "Irish Distillers International Limited may be best known as the parent company of brands such as Jameson and Redbreast, but its experimental project Method and Madness is worthy of a good share of...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/method-and-madness-rye-and-malt-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "redbreast-single-pot-still-irish-whiskey-pedro-ximenez-edition",
         "west-cork-distillers-single-malt-irish-whiskey-bog-oak-charred-cask",
@@ -116,7 +116,7 @@
       "rating": 91,
       "tasting_note": "Ripe banana meets oak and dried fruits",
       "excerpt": "Crafted from a triple-distilled single malt, this whiskey is aged exclusively in sherry butts, which lend a rich, copper hue (and also influenced its name). The intensity of its aromas is striking...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/writers-tears-red-head-single-malt-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "method-and-madness-rye-and-malt-irish-whiskey",
@@ -142,7 +142,7 @@
       "rating": 92,
       "tasting_note": "Liquid dessert",
       "excerpt": "While cask-finished whiskey lovers may be more interested in the esoteric offerings of Killowen's 10-year-old “Bonded Experimental” series, this 5-year-old “Signature” expression offers much in the...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "hinch-irish-whiskey-small-batch",
@@ -168,7 +168,7 @@
       "rating": 92,
       "tasting_note": "Smoky Irish whiskey at its finest",
       "excerpt": "Crafted from a blend of triple-distilled whiskeys, this release combines five single malts, each of which aged in different types of barrel. One of the five malts (aged in bourbon casks) is peated...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/the-midnight-silkie-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-aeneas-coffey-single-grain-irish-whiskey",
         "method-and-madness-rye-and-malt-irish-whiskey",
@@ -194,7 +194,7 @@
       "rating": 93,
       "tasting_note": "A savory, complex summer sipper",
       "excerpt": "After aging for 4 years in sherry casks, this single malt spent an unspecified finishing period in charred bog oak casks, an atypical vessel made from wood that has typically been buried and...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/west-cork-distillers-single-malt-irish-whiskey-bog-oak-charred-cask.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-saints-and-scholars-ii-19-year-old-single-malt-irish-whiskey",
         "high-n-wicked-the-wild-rover-single-malt-irish-whiskey",
@@ -220,7 +220,7 @@
       "rating": 92,
       "tasting_note": "Sweet caramel leads to rich molasses",
       "excerpt": "Made using a blend of grain and malt whiskeys that have aged for up to 6 years in bourbon barrels, it then spends a final 6-month period in Central American rum casks, adding a unique and delightful...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/teeling-small-batch-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "teeling-blackpitts-peated-single-malt-whiskey",
         "waterford-single-malt-irish-whisky-biodynamic-luna-1-1",
@@ -246,7 +246,7 @@
       "rating": 90,
       "tasting_note": "A rounded, harmonious blend",
       "excerpt": "Crafted using four types of casks (Port pipes, bourbon casks, sherry butts, and double charred barrels),as well as two types of base whiskey (malt and grain), Ha'Penny takes its name from an old...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/hapenny-four-cask-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-the-wild-rover-single-malt-irish-whiskey",
         "michael-collins-irish-whiskey",
@@ -272,7 +272,7 @@
       "rating": 93,
       "tasting_note": "Caramel, orange, and burnt sugar",
       "excerpt": "\"The concept of \"\"double oak\"\" whiskey, which involves finishing an aged distillate in new oak barrels, is more commonly associated with bourbon. However, this blended Irish whiskey takes the concept...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "dingle-single-malt-whiskey-batch-no-4",
         "paddys-old-irish-whiskey",
@@ -298,7 +298,7 @@
       "rating": 97,
       "tasting_note": "Stunningly fresh, tropical fruit",
       "excerpt": "Single pot still releases represent a style that is truly unique to Ireland. What sets it apart from other whiskey styles is the inclusion of unmalted cereal grains in the mash bill, as well as the...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/redbreast-21-year-old-single-pot-still-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "paddys-old-irish-whiskey",
         "redbreast-single-pot-still-irish-whiskey-pedro-ximenez-edition",
@@ -324,7 +324,7 @@
       "rating": 94,
       "tasting_note": "Cake frosting and lemon zest",
       "excerpt": "Irish whiskey is undergoing a resurgence, with the number of distilleries in the country on the rise. This is paving the way for innovation and experimentation in the industry. An example of this is...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/high-n-wicked-aeneas-coffey-single-grain-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-saints-and-scholars-ii-19-year-old-single-malt-irish-whiskey",
         "high-n-wicked-the-wild-rover-single-malt-irish-whiskey",
@@ -349,7 +349,7 @@
       "rating": 95,
       "tasting_note": "A show-stopping, cask-strength single malt",
       "excerpt": "Wyoming-based High N’ Wicked releases limited-edition whiskeys in partnership with the California importer Altamar Brands. The second release from the label, this triple-distilled cask-strength...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/high-n-wicked-the-wild-rover-single-malt-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-aeneas-coffey-single-grain-irish-whiskey",
         "high-n-wicked-saints-and-scholars-ii-19-year-old-single-malt-irish-whiskey",
@@ -374,7 +374,7 @@
       "rating": 95,
       "tasting_note": "Attractively sweet with nutty complexity",
       "excerpt": "Arriving at the tail end of 2021, this limited-edition Redbreast release is initially aged in bourbon and oloroso sherry casks, then finished for up to 22 months in Pedro Ximénez hogsheads. For those...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/redbreast-single-pot-still-irish-whiskey-pedro-ximenez-edition.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "redbreast-21-year-old-single-pot-still-irish-whiskey",
@@ -400,7 +400,7 @@
       "rating": 94,
       "tasting_note": "A harmonious and nuanced blend",
       "excerpt": "Waterford was founded by Mark Reynier, a former Bruichladdich CEO, and focuses on terroir-driven whiskies that place grain provenance front and center. This, the company’s flagship expression, is...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/waterford-irish-single-malt-whisky-the-cuvee.jpg",
       "related_whiskey_ids": [
         "paddys-old-irish-whiskey",
         "waterford-single-malt-irish-whisky-biodynamic-luna-1-1",
@@ -425,7 +425,7 @@
       "rating": 92,
       "tasting_note": "A creamy, cereal-like single malt",
       "excerpt": "Established in 2012, the Dingle Distillery is among the newer wave of Irish whiskey producers currently reenergizing the category. While sourcing remains common in the space, Dingle produced all of...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/dingle-single-malt-whiskey-batch-no-4.jpg",
       "related_whiskey_ids": [
         "paddys-old-irish-whiskey",
         "waterford-irish-single-malt-whisky-the-cuvee",
@@ -450,7 +450,7 @@
       "rating": 92,
       "tasting_note": "Begins with a bang, finishes with a soft malty landing",
       "excerpt": "Peated whiskey remains much less common in Ireland than it does in Scotland, and this release from Teeling is among the best on offer. Bottled at 46 percent ABV, it's a bold, expressive whiskey...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/teeling-blackpitts-peated-single-malt-whiskey.jpg",
       "related_whiskey_ids": [
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
         "michael-collins-irish-whiskey",
@@ -476,7 +476,7 @@
       "rating": 93,
       "tasting_note": "Expressive beyond its years",
       "excerpt": "A true grain to glass release, this single malt is distilled from barley grown on Tipperary’s farm. It's a relatively young release, aged for at least three years in former Rioja barrels, but its 50...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/tipperary-single-malt-whiskey-homegrown-barley.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "michael-collins-irish-whiskey",
@@ -502,7 +502,7 @@
       "rating": 91,
       "tasting_note": "A delightful double act",
       "excerpt": "From Walsh Whiskey, arrives this blend of single pot still and single malt whiskeys, which are aged in bourbon and Cognac casks. Both of those vessels play a large role in its final profile, with...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/writers-tears-double-oak-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
@@ -528,7 +528,7 @@
       "rating": 93,
       "tasting_note": "Fortified and sweet wine meets single malt",
       "excerpt": "This 12-year-old expression joined the permanent Bushmills lineup in early 2022. A single malt whiskey, it spends at least 11 years aging in sherry and bourbon casks before being finished in Marsala...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/bushmills-12-year-old-single-malt-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "dingle-single-malt-whiskey-batch-no-4",
@@ -554,7 +554,7 @@
       "rating": 91,
       "tasting_note": "A whiskey of pleasant contrasts",
       "excerpt": "Launched in 2021, Limavady is the brainchild of Darryl McNally, a Bushmills veteran who spent nearly two decades at the iconic distillery. The brand offers one product: a single-barrel (currently...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/limavady-single-barrel-single-malt-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "dingle-single-malt-whiskey-batch-no-4",
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
@@ -580,7 +580,7 @@
       "rating": 90,
       "tasting_note": "A distinctive blended Irish whiskey",
       "excerpt": "Two Stacks is an innovative operator in the Irish whiskey realm, offering single-serve, canned drams, and among the few cask-strength releases we’ve encountered at VinePair. This 42 percent ABV...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/two-stacks-the-first-cut-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-aeneas-coffey-single-grain-irish-whiskey",
         "lost-irish-triple-distilled-irish-whiskey",
@@ -606,7 +606,7 @@
       "rating": 92,
       "tasting_note": "Takes cask finishing to the next level",
       "excerpt": "This triple-distilled blend contains grain, malt, and pot still Irish whiskeys. While the use of interesting barrels is becoming more commonplace on the Emerald Isle, few — if any — can boast quite...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/lost-irish-triple-distilled-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "high-n-wicked-saints-and-scholars-ii-19-year-old-single-malt-irish-whiskey",
@@ -632,7 +632,7 @@
       "rating": 90,
       "tasting_note": "A stellar option for spirit-forward Irish whiskey cocktails",
       "excerpt": "This blended Irish whiskey is finished in bourbon casks, which have a notable influence on the spirit's final profile. Striking caramel and vanilla notes add layers to its sweet and malty core. With...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/hinch-irish-whiskey-small-batch.jpg",
       "related_whiskey_ids": [
         "bushmills-12-year-old-single-malt-irish-whiskey",
         "redbreast-single-pot-still-irish-whiskey-pedro-ximenez-edition",
@@ -658,7 +658,7 @@
       "rating": 89,
       "tasting_note": "An approachable and affordable intro to Single Pot Still",
       "excerpt": "The Busker offers four different Irish Whiskeys: one of them a blend; the other three components that make up that blend. This, a single pot still whiskey, is the standout of the bunch, arriving at...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/the-busker-single-pot-still.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-the-wild-rover-single-malt-irish-whiskey",
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
@@ -684,7 +684,7 @@
       "rating": 89,
       "tasting_note": "Surprisingly nuanced for the price",
       "excerpt": "This non-age-statement blend of grain and malt whiskeys is matured in former bourbon casks. Serving a surprisingly delicate profile, there's more nuance in this dram than most similarly priced...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/west-cork-distillers-bourbon-cask.jpg",
       "related_whiskey_ids": [
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
         "teeling-small-batch-irish-whiskey",
@@ -710,7 +710,7 @@
       "rating": 89,
       "tasting_note": "A balanced blend with mass appeal",
       "excerpt": "Surging sales in recent years have seen Proper No. Twelve gain a status akin to the brand's celebrity co-founder, MMA star Conor McGregor. Though it launched as recently as 2018, the profile of this...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/proper-no-twelve-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "bushmills-12-year-old-single-malt-irish-whiskey",
         "redbreast-21-year-old-single-pot-still-irish-whiskey",
@@ -736,7 +736,7 @@
       "rating": 89,
       "tasting_note": "A fruity and impressive budget Irish whiskey",
       "excerpt": "An affordable option owned by the Sazerac Company, this Irish whiskey contains a blend of pot still, malt, and grain whiskeys. Considering its price tag, this product has an impressively fruity and...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/michael-collins-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "two-stacks-blended-irish-whiskey-tawny-port-cask-finished",
@@ -762,7 +762,7 @@
       "rating": 89,
       "tasting_note": "A budget option brimming with character",
       "excerpt": "Owned by the Sazerac Company, this blended Irish whiskey arrives at 40 percent ABV. Despite its relatively low proof and budget price, it's brimming with character. Banana and dried red berry aromas...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/paddys-old-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "bushmills-12-year-old-single-malt-irish-whiskey",
         "limavady-single-barrel-single-malt-irish-whiskey",
@@ -788,7 +788,7 @@
       "rating": 97,
       "tasting_note": "Worth the splurge for special occasions",
       "excerpt": "This 21-year-old single malt ages for a minimum of 19 years in Oloroso and ex-bourbon casks then spends a further two years maturating in Madeira casks. The combination of age and the different cask...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/bushmills-21-year-old-single-malt.jpg",
       "related_whiskey_ids": [
         "bushmills-12-year-old-single-malt-irish-whiskey",
         "dingle-single-malt-whiskey-batch-no-4",
@@ -814,7 +814,7 @@
       "rating": 95,
       "tasting_note": "A standard-bearer for the pot still style",
       "excerpt": "Combing 7- and 10-year-old pot still whiskeys, Green Spot is instantly inviting with banana muffin, creamy oat, and golden raisin aromas. The palate is complex and layered, and soon delivers on the...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/green-spot-single-pot-still.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-saints-and-scholars-ii-19-year-old-single-malt-irish-whiskey",
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
@@ -840,7 +840,7 @@
       "rating": 94,
       "tasting_note": "Nuanced but approachable whiskey at its neat-sippin' finest.",
       "excerpt": "A triple-distilled single malt, this release is finished in bourbon, Oloroso sherry, port, and Madeira casks. The influence of the four finishing vessels shines throughout but never threatens to...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/tullamore-d-e-w-14-year-old-four-cask-finish.jpg",
       "related_whiskey_ids": [
         "teeling-small-batch-irish-whiskey",
         "the-busker-single-pot-still",
@@ -866,7 +866,7 @@
       "rating": 93,
       "tasting_note": "Summer sippin'",
       "excerpt": "Many encounters with single grain Irish whiskey can lead you to question what the style is striving for: It invariably seems to lack the character of pot still or single malts, and the...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/egans-vintage-grain.jpg",
       "related_whiskey_ids": [
         "hinch-irish-whiskey-small-batch",
         "michael-collins-irish-whiskey",
@@ -892,7 +892,7 @@
       "rating": 93,
       "tasting_note": "A fine example of Ireland's signature style",
       "excerpt": "Teeling’s Single Pot Still contains a higher-than-average 50 percent unmalted barley in its mash bill. The influence of unmalted grains — a calling card for Ireland's signature style — is evident...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/teeling-single-pot-still.jpg",
       "related_whiskey_ids": [
         "paddys-old-irish-whiskey",
         "proper-no-twelve-irish-whiskey",
@@ -918,7 +918,7 @@
       "rating": 94,
       "tasting_note": "Single pot still stalwart",
       "excerpt": "A stalwart in the single pot still category, Red Breast 12-year-old serves an easy-going, approachable intro to Ireland's traditional style of whiskey. Its inviting aromas start with dried fruits...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/redbreast-12-year-old-single-pot-still.jpg",
       "related_whiskey_ids": [
         "lost-irish-triple-distilled-irish-whiskey",
         "redbreast-21-year-old-single-pot-still-irish-whiskey",
@@ -944,7 +944,7 @@
       "rating": 93,
       "tasting_note": "Cask strength Irish whiskey? We're here for it",
       "excerpt": "Cask strength releases are seldom found in the realm of Irish whiskey but this release makes a strong argument in favor of them. Along with its 65 percent ABV content, the intriguing blend of grain...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/two-stacks-the-blenders-cut-cask-strength.jpg",
       "related_whiskey_ids": [
         "limavady-single-barrel-single-malt-irish-whiskey",
         "the-midnight-silkie-irish-whiskey",
@@ -970,7 +970,7 @@
       "rating": 92,
       "tasting_note": "Can't argue with the name",
       "excerpt": "Aged and finished in bourbon, marsala, and sherry casks, this release combines a blend of single grain, single malt, and pot still whiskeys. The nose leads with rich malt aromas, followed by hints of...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/the-busker-triple-cask-triple-smooth.jpg",
       "related_whiskey_ids": [
         "hapenny-four-cask-irish-whiskey",
         "hinch-irish-whiskey-small-batch",
@@ -996,7 +996,7 @@
       "rating": 91,
       "tasting_note": "All about the charred oak",
       "excerpt": "None can argue with the ubiquitous popularity of Jameson's flagship offering, but for added intensity and complexity seek out the brand's Black Barrel release. The name refers to a re-charring...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/jameson-black-barrel.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-the-wild-rover-single-malt-irish-whiskey",
         "proper-no-twelve-irish-whiskey",
@@ -1022,7 +1022,7 @@
       "rating": 91,
       "tasting_note": "Recollections of rye",
       "excerpt": "Banana meets spearmint on the nose of this blend of grain and malt Irish whiskeys, which mature for three to 10 years in French oak, bourbon, and rum casks. The palate continues with spiced cereal...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/grace-omalley-blended-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "paddys-old-irish-whiskey",
         "teeling-small-batch-irish-whiskey",
@@ -1048,7 +1048,7 @@
       "rating": 90,
       "tasting_note": "Banana and pinapple husk",
       "excerpt": "A blend of grain and triple-distilled pot still whiskeys, Powers Gold Label immediately draws you in with banana and pineapple husk aromas, under which runs a luxurious waft of vanilla and baking...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/powers-gold-label.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "high-n-wicked-saints-and-scholars-ii-19-year-old-single-malt-irish-whiskey",
@@ -1074,7 +1074,7 @@
       "rating": 90,
       "tasting_note": "Perfumed aromas, rich palate",
       "excerpt": "This blended whiskey from Diageo-owned Roe & Co. combines aged malt and grain distillates. It has a light, perfumed nose with plenty of fruit character. Moving onto the palate the dram gains richness...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/roe-and-co-blended-irish-whiskey.jpg",
       "related_whiskey_ids": [
         "bushmills-12-year-old-single-malt-irish-whiskey",
         "tipperary-single-malt-whiskey-homegrown-barley",
@@ -1100,7 +1100,7 @@
       "rating": 91,
       "tasting_note": "A refined Irish single malt",
       "excerpt": "Established in 2015, the Teeling Distillery is the first new distillery to open in Dublin for over 125 years. This single malt is one of a number of high-quality releases from this brand. Matured and...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/teeling-single-malt.jpg",
       "related_whiskey_ids": [
         "paddys-old-irish-whiskey",
         "proper-no-twelve-irish-whiskey",
@@ -1126,7 +1126,7 @@
       "rating": 94,
       "tasting_note": "The perfect whiskey for summer sipping",
       "excerpt": "This single malt is triple-distilled and aged for 12 years in bourbon casks. The nose is rich and inviting, with aromas of dried stone fruits, nuts, and malted barley. That combination continues...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/knappogue-castle-12-years-old-single-malt.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
@@ -1152,7 +1152,7 @@
       "rating": 91,
       "tasting_note": "Worth the splurge",
       "excerpt": "This double-distilled single malt rests for 10 years in bourbon barrels before a final finishing period in Madeira casks. The fortified Portuguese wine has a delightful influence, adding honeyed...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/the-tyrconnell-10-year-old-madeira-cask-finish.jpg",
       "related_whiskey_ids": [
         "hinch-irish-whiskey-small-batch",
         "teeling-blackpitts-peated-single-malt-whiskey",
@@ -1177,7 +1177,7 @@
       "rating": 88,
       "tasting_note": "Rich and approachable with a spiced finish",
       "excerpt": "This rich and approachable whiskey arrives in an unconventional, new-age bottle. Malted barley takes center stage on the nose, followed by sweet undertones of green apple and milk chocolate. The...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/sexton-single-malt.jpg",
       "related_whiskey_ids": [
         "redbreast-single-pot-still-irish-whiskey-pedro-ximenez-edition",
         "the-midnight-silkie-irish-whiskey",
@@ -1203,7 +1203,7 @@
       "rating": 94,
       "tasting_note": "Apples and honey with a hint of leather",
       "excerpt": "This pot still release ages for 12 years in ex-bourbon casks, while a small proportion also rests for one year in Oloroso sherry butts. The resulting spirit has a luxurious profile that's...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/powers-johns-lane-12-years.jpg",
       "related_whiskey_ids": [
         "high-n-wicked-aeneas-coffey-single-grain-irish-whiskey",
         "hinch-irish-whiskey-small-batch",
@@ -1229,7 +1229,7 @@
       "rating": 91,
       "tasting_note": "Bold but balanced",
       "excerpt": "This release matures in three different types of oak before bottling: new oak, former Tennessee and bourbon whiskey barrels, and sherry casks. The notable wood influence is apparent throughout but...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/slane-triple-casked.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "paddys-old-irish-whiskey",
@@ -1255,7 +1255,7 @@
       "rating": 91,
       "tasting_note": "Robust and full of character",
       "excerpt": "This release contains an interesting blend of 70 percent single malt and 30 percent pot still whiskeys. The result is a whiskey that's robust enough for cocktails but also has plenty of character to...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/the-irishman-small-batch-founders-reserve.jpg",
       "related_whiskey_ids": [
         "clonakilty-distillery-single-batch-double-oak-cask-finish-irish-whiskey",
         "michael-collins-irish-whiskey",
@@ -1281,7 +1281,7 @@
       "rating": 95,
       "tasting_note": "Single malt Scotch — beware!",
       "excerpt": "The Scots may have cornered the single malt category, but this 10-year aged expression from Bushmills offers stiff competition. Over the course of the decade aging, the whiskey has developed complex...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/bushmills-single-malt-10-years.jpg",
       "related_whiskey_ids": [
         "bushmills-12-year-old-single-malt-irish-whiskey",
         "redbreast-21-year-old-single-pot-still-irish-whiskey",
@@ -1307,7 +1307,7 @@
       "rating": 97,
       "tasting_note": "Double sherry casked!",
       "excerpt": "Containing a blend of malted and unmalted barley in the mash bill, this pot still whiskey is triple distilled before it embarks on a long aging journey. That journey begins with a period of nine to...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/redbreast-single-pot-still-lustau-finish.jpg",
       "related_whiskey_ids": [
         "bushmills-12-year-old-single-malt-irish-whiskey",
         "paddys-old-irish-whiskey",
@@ -1333,7 +1333,7 @@
       "rating": 97,
       "tasting_note": "Oats!",
       "excerpt": "Along with malted and unmalted barley, this release includes 2.5 percent oats in the mash bill. That doesn’t sound like a lot, but it plays a major, positive impact on the whiskey’s character. On the...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/kilbeggan-single-pot-still.jpg",
       "related_whiskey_ids": [
         "killowen-distillery-single-malt-irish-whiskey-signature-5-year-rum-and-raisin-inspired",
         "proper-no-twelve-irish-whiskey",
@@ -1358,7 +1358,7 @@
       "rating": 94,
       "tasting_note": "A truly Irish whiskey",
       "excerpt": "This is a truly Irish whiskey. For the final year of its maturation period, this release rests in virgin casks made from Irish oak. The influence of that oak is well integrated on the nose and the...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/glendalough-pot-still.jpg",
       "related_whiskey_ids": [
         "dingle-single-malt-whiskey-batch-no-4",
         "high-n-wicked-aeneas-coffey-single-grain-irish-whiskey",
@@ -1384,7 +1384,7 @@
       "rating": 88,
       "tasting_note": "A smooth-sipping fruit-forward Irish whiskey",
       "excerpt": "This triple distilled blend contains pot still, malt, and grain Irish whiskeys. Its overall profile is smooth-sipping and fruit-forward. A distinctive banana chip note runs throughout the nose and...",
-      "image_url": null,
+      "image_url": "http://localhost:3001/images/whiskeys/tullamore-d-e-w-caribbean-rum-cask-finish.jpg",
       "related_whiskey_ids": [
         "lost-irish-triple-distilled-irish-whiskey",
         "method-and-madness-rye-and-malt-irish-whiskey",
@@ -1972,7 +1972,7 @@
       "short_name": "Single Pot Still",
       "description": "Single pot still whiskey is native to Ireland. It emerged in the late 1700s as a way of avoiding a tax on the use of malt. Pot still whiskey uses a combination of malted and unmalted barley. The unmalted part creates a spicy flavour and a creamy texture that allows it to stand apart from the flavour of single malt whiskey. It is distilled in a pot still. Some of the most popular Irish whiskey brands are single pot still whiskey and include Redbreast, Green Spot, and Powers John's Lane.",
       "legal_definition": "Distilled in a pot still from a mash of malted and unmalted barley (at least 30% of each), at a single distillery in Ireland. Defined under EU Regulation 2019/787 and the Irish Whiskey Technical File.",
-      "image_url": null
+      "image_url": "http://localhost:3001/images/types/single-pot-still.jpg"
     },
     {
       "id": "single-malt",
@@ -1980,7 +1980,7 @@
       "short_name": "Single Malt",
       "description": "In popular culture, the idea of a single malt is often widely understood to reference a sign of excellence but, in fact, it simply refers to the type of whiskey it is. The single in the name refers to the fact that it is made in a single distillery, while the malt refers to the fact that it contains 100 per cent malt barley, as well as water and yeast. It can be peated or unpeated and has a full and pleasant oily texture with a smooth, sweet, and malty finish. It is distilled in a pot still. Popular examples include Dingle Single Malt, Teeling Single Malt, and Bushmills Single Malt.",
       "legal_definition": "Distilled in a pot still from 100% malted barley at a single distillery in Ireland. Defined under EU Regulation 2019/787 and the Irish Whiskey Technical File.",
-      "image_url": null
+      "image_url": "http://localhost:3001/images/types/single-malt.jpg"
     },
     {
       "id": "single-grain",
@@ -1988,7 +1988,7 @@
       "short_name": "Single Grain",
       "description": "Irish grain whiskey must have a malt barley component in its recipe, but only up to a maximum of 30 per cent. The remainder can be a combination of unmalted grains such as maize, wheat, or barley. It is distilled in a column still and can be double- or triple-distilled. Popular examples of Irish grain whiskey include Kilbeggan Single Grain, Powerscourt Distillery's Fercullen 10-year-old Single Grain, and Teeling's Single Grain.",
       "legal_definition": "Distilled at a single distillery in Ireland from a mash containing no more than 30% malted barley, with other cereals such as maize or wheat. Defined under EU Regulation 2019/787 and the Irish Whiskey Technical File.",
-      "image_url": null
+      "image_url": "http://localhost:3001/images/types/single-grain.jpg"
     },
     {
       "id": "blended",
@@ -1996,7 +1996,7 @@
       "short_name": "Blended",
       "description": "Blended Irish whiskey is a combination of two or more of the pot still, malt, and grain whiskeys. Generally, the lighter grain whiskey is combined with the heavier malt or pot still to create a new blend or flavour profile. It can also be a combination of all three styles, although this is rare. Tullamore D.E.W. is a great example of all three styles being combined to create an incredibly popular brand. Bushmills Original is a blend of their triple-distilled malt whiskey and a lighter grain whiskey.",
       "legal_definition": "A blend of two or more of the other three categories. Defined under EU Regulation 2019/787 and the Irish Whiskey Technical File.",
-      "image_url": null
+      "image_url": "http://localhost:3001/images/types/blended.jpg"
     }
   ],
   "articles": [
