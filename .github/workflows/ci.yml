@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build db.json
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Rebuilds db.json from tools/source/. The script asserts referential
+      # integrity - unknown type_id/brand_id/distillery_id, duplicate slugs,
+      # or a related_whiskey_id pointing at nothing - and exits non-zero
+      # rather than writing a broken file.
+      - name: Build
+        run: python3 tools/build_db.py
+
+      # db.json is generated, so a rebuild must reproduce exactly what is
+      # committed. This fails when a source CSV was edited without rebuilding,
+      # or when db.json was hand-edited.
+      - name: Check db.json is in sync with tools/source/
+        run: |
+          if ! git diff --exit-code --stat db.json; then
+            echo
+            echo "::error::db.json is out of sync with tools/source/."
+            echo "Run 'python3 tools/build_db.py' and commit the result."
+            exit 1
+          fi
